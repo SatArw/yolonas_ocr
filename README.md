@@ -11,4 +11,3 @@ Before running:
 2. Download the training_backup folder from [here]("https://drive.google.com/drive/folders/1KYKRCJL7PH7t3RpmdC353BePR5l-1ADi?usp=sharing") and keep it in the repository's root folder. 
 
 
-
