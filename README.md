@@ -8,6 +8,6 @@ Before running:
 
 1. Install the requirements listed in requirements.txt
 
-2. Download the training_backup folder from [here]("https://drive.google.com/drive/folders/1KYKRCJL7PH7t3RpmdC353BePR5l-1ADi?usp=sharing") and keep it in the repository's root folder. 
+2. Download the training_backup folder from [here](https://drive.google.com/drive/folders/1KYKRCJL7PH7t3RpmdC353BePR5l-1ADi?usp=sharing) and keep it in the repository's root folder. 
 
 
