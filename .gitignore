@@ -4,3 +4,5 @@ valid/
 valid_labels/
 training_backup/
 yolonas_env/
+__pycache__/
+
